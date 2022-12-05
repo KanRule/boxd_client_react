@@ -10,7 +10,7 @@
     "start-prod": "pm2 start server.js"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.6",
+    "autoprefixer": "^10.4.13",
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
@@ -23,7 +23,7 @@
     "file-loader": "^1.1.5",
     "html-webpack-inline-chunk-plugin": "^1.1.1",
     "node-sass": "^7.0.0",
-    "postcss-loader": "^2.0.8",
+    "postcss-loader": "^7.0.2",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
     "url-loader": "^0.6.2",
