@@ -51,7 +51,7 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "reselect": "^3.0.1",
-    "superagent": "^5.2.2",
+    "superagent": "^9.0.1",
     "sweet-pubsub": "^1.1.2"
   }
 }
