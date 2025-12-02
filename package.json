@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "core-js": "^2.5.7",
-    "express": "^4.19.2",
+    "express": "^4.22.1",
     "express-history-api-fallback": "^2.2.1",
     "html-webpack-plugin": "^5.5.0",
     "jsdom": "^16.7.0",
